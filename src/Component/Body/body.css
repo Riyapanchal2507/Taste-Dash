@@ -1,0 +1,14 @@
+.card{
+    width: 200px;
+    margin: 10px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid transparent;
+}
+.card:hover{
+    border: 1px solid black;
+    transition: 0.3s;
+}
+.search{
+    padding: 10px;
+}
